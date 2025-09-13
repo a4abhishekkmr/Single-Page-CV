@@ -26,4 +26,5 @@ The goal of this project is to learn how to create a structured, single-page CV 
 
 
 ## 🚀 Live Demo
-[Project URL](https://a4abhishekkmr.github.io/Single-Page-CV/)
+[Link](https://a4abhishekkmr.github.io/Single-Page-CV/)
+[Project URL](https://roadmap.sh/projects/single-page-cv)
