@@ -24,5 +24,8 @@ The goal of this project is to learn how to create a structured, single-page CV 
 - Direct Edit and Host it
 - A one-page CV is useful to show your skills and about you in professional way.
 
+## Project URL
+[Link](https://github.com/a4abhishekkmr/Single-Page-CV)
+
 ## 🚀 Live Demo
 [Click here to view](https://a4abhishekkmr.github.io/Single-Page-CV/)
